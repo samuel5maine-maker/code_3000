@@ -1,6 +1,7 @@
 Intended Users of the Repo are: 
 Samuel Schultz (samuel.schultz@uconn.edu) for commiting changes to Repo.
-Matthew Lamoureux (matthew.lamoureux@uconn.edu) for just watching the Repo.
+Matthew Lamoureux (matthew.lamoureux@uconn.edu) for watching the repo, committing changes to the original repo,
+and Grading.
 
 Security Threats:
 If this code fell into the wrong hands there would be risk of academic misconduct and
@@ -8,8 +9,9 @@ unaccountable changes to my code. The greatest threat would be someone unknowly 
 deleting my code.
 
 To account for this added ruleset that:
--Only allows those with permissions (me) to delete main branch.
+-Only allows those with permissions (Professor Lamoureux and I) to delete main branch.
 -Blocks force pushes to prevent blatant overwriting of the repo.
 -Required all changes to main to be made through a pull request.
 -Required signed commits to ensure integrity.
--Restricted updates to only those with permissions (me).
+-Restricted updates to only those with permissions (Professor Lamourex and I).
+-Having a CodeOwners File
