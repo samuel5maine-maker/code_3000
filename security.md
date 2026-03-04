@@ -11,4 +11,4 @@ To account for this added ruleset that:
 -Only allows those with permissions (me) to delete main branch.
 -Blocks force pushes to prevent blatant overwriting of the repo.
 -Required all changes to main to be made through a pull request.
--Added Signed commits to ensure integrity.
+-Required signed commits to ensure integrity.
