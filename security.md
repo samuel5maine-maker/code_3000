@@ -12,3 +12,4 @@ To account for this added ruleset that:
 -Blocks force pushes to prevent blatant overwriting of the repo.
 -Required all changes to main to be made through a pull request.
 -Required signed commits to ensure integrity.
+-Restricted updates to only those with permissions (me).
